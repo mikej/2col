@@ -52,10 +52,8 @@
             <p>Hi. I'm Michael Josephson, a software developer in <a href="http://en.wikipedia.org/wiki/Manchester" title="">Manchester</a>, England.</p>
           </div>
           <div class="sidebar-module">
-            <h4>Archives</h4>
-            <ol class="list-unstyled">
-
-            </ol>
+            <h4>Currently reading <span class="join-word">via</span> <a href="http://goodreads.com/michaelj">Goodreads</a></h4>
+            <?php include '../../../../www.josephson.org/include/goodreads.html' ?>
           </div>
           <div class="sidebar-module">
             <h4>Elsewhere</h4>
