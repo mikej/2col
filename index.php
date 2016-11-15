@@ -49,7 +49,7 @@
         <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
           <div class="sidebar-module sidebar-module-inset">
             <h4>About</h4>
-            <p>Hi. I'm Michael Josephson, a software developer in <nobr><a href="http://en.wikipedia.org/wiki/Manchester" title="">Manchester</a>, England.</p>
+            <p>Hi. I'm Michael Josephson, a software developer in <a href="http://en.wikipedia.org/wiki/Manchester" title="">Manchester</a>, England.</p>
           </div>
           <div class="sidebar-module">
             <h4>Archives</h4>
